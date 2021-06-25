@@ -1,0 +1,29 @@
+Tarea 8.
+
+Forma de operar un centro de computo.
+
+1. Revisar los resultados de los procesos e incorporar acciones correctivas
+conforme a instrucciones de su superior inmediato.
+
+-> Estar monitoriando los procesos que se realizan para ver que los resultados vayan de acuerdo con lo esperado para poder actuar en tiempo y forma en el caso de que algo salga de control.
+
+2. Realizar las copias de respaldo (back-up) de la información y procesos de
+cómputo que se realizan en la Dirección, conforme a parámetros
+preestablecidos.
+
+-> Realizar las copias de seguridad de la base de datos cada determinado tiempo para tener un respaldo contra posibles errores del sistema o una caida de energia que pudiera provocar perdida de informacion. 
+
+3. Velar porque el sistema computarizado se mantenga funcionando apropiadamente
+y estar vigilante para detectar y corregir fallas en el mismo.
+
+-> Si no se da un debido mantenimiento al centro de computo podremos provocar un fallo en el mismo teniendo consecuencias graves, como posible perdida de informacion o fallos en los procesos realizados.
+
+4. Realizar labores de mantenimiento y limpieza de los equipos del centro de
+cómputo.
+
+-> De igual manera que en el punto anterior si no se realiza un debido mantenimiento podriamos presentar fallas graves.
+
+5. Mantener informado al jefe inmediato sobre el funcionamiento del centro de
+cómputo.
+
+-> Al realizar esto de manera continua evitamos incongruencias sobre el proceso hacia nuestros superiores, ya que al presentarse un fallo lo mas seguro es que el jefe entienda el por que
